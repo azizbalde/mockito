@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="C:\Program Files (x86)\MySQL\mysql-connector-java-5.1.12-bin.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="fr.ensup.gestionetablissementscolaires.dao,fr.ensup.gestionetablissement.domaine,fr.ensup.gestionetablissementscolaires.presentation,fr.ensup.gestionetablissementscolaires.service" source="1.8" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
